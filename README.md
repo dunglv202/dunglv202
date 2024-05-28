@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/dunglv202/dunglv202/main/assets/java.svg" align="left" width="24px" height="34px"/>
 <img src="https://raw.githubusercontent.com/dunglv202/dunglv202/main/assets/golang.svg" align="left" width="40px" height="34px"/>
 <img src="https://raw.githubusercontent.com/dunglv202/dunglv202/main/assets/javascript.svg" align="left" width="26px" height="34px"/>
+<img src="https://raw.githubusercontent.com/dunglv202/dunglv202/main/assets/typescript.svg" align="left" width="26px" height="34px"/>
 <img src="https://raw.githubusercontent.com/dunglv202/dunglv202/main/assets/ubuntu.svg" align="left" width="26px" height="34px"/>
 <img src="https://raw.githubusercontent.com/dunglv202/dunglv202/main/assets/docker.svg" align="left" width="28px" height="34px"/>
 <img src="https://raw.githubusercontent.com/dunglv202/dunglv202/main/assets/reactjs.svg" align="left" width="26px" height="34px"/>
